@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jade Ryan Blancaflor</h1>
+<h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate Full Stack developer from Philippines</h3>
 
 - 🔭 I’m currently working on [MLC](https://lightseagreen-mule-508719.hostingersite.com/)
