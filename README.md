@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate Full Stack developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [http://adonisgrphx.my.canva.site/my-portfolio?fbclid=IwZXh0bgNhZW0CMTAAAR05pOUbXXIanul5tMov4v8lU_UZHRbmCYeOee7knLKYshoEIuGhNAa9n7Y_aem_kJiSZGK-RQA41bM6oIzWPQ](http://adonisgrphx.my.canva.site/my-portfolio?fbclid=IwZXh0bgNhZW0CMTAAAR05pOUbXXIanul5tMov4v8lU_UZHRbmCYeOee7knLKYshoEIuGhNAa9n7Y_aem_kJiSZGK-RQA41bM6oIzWPQ)
+- 👨‍💻 All of my projects are available at https://blancaflor480.github.io/bry-portfolio/
 
 - 💬 Ask me about **React, PHP & Java**
 
